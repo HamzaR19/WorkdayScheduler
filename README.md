@@ -33,12 +33,29 @@ The following animation demonstrates the application functionality:
 
 ![05-third-party-apis-homework-demo](https://github.com/HamzaR19/WorkdayScheduler/assets/132932060/7120add5-80fd-4cd8-9aca-fcf9edbd47d5)
 
+## License
+Copyright (c) <year> <copyright holders>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ## AUTHOR
 ```md
 Hi! I am Hamza Rahman
 My Email: M.hamza.rahman@gmail.com
 pls contact me for any info!
-
-
-![mit lc](https://github.com/HamzaR19/WorkdayScheduler/assets/132932060/314d8548-8bcf-4711-882d-cdbcd372b7bc)
