@@ -33,17 +33,18 @@ The following animation demonstrates the application functionality:
 
 ![05-third-party-apis-homework-demo](https://github.com/HamzaR19/WorkdayScheduler/assets/132932060/7120add5-80fd-4cd8-9aca-fcf9edbd47d5)
 
-```md
-AUTHOR
 
+## AUTHOR
+```md
 Hi! I am Hamza Rahman
 My Email: M.hamza.rahman@gmail.com
 pls contact me for any info!
 
 
 
-```md
-LICENSE
+
+
+##LICENSE
 
 Standard MIT License
 
