@@ -37,4 +37,3 @@ The following animation demonstrates the application functionality:
 License
 Standard MIT License
 
-license
