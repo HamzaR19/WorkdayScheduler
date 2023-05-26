@@ -1,7 +1,7 @@
 # Workday Scheduler
 
 ## Description
-I created a schedule for workday hours (between 9 AM and 5pm) that allows users to input a task in a time slot. Time slots in the past are listed in gray, the current time slot is listed in red, and future time slots are listed in green. This allows ease in scheduling events as each color coordinates to a certain times available to you and ones that are not.
+I created a schedule for workday hours (between 9 AM and 5pm) that allows users to input a task in a time slot. Time slots in the past are listed in gray, the current time slot is listed in red, and future time slots are listed in green. This allows ease in scheduling events as each color coordinates to a certain times available to you and ones that are not. All data is stored locally.
 
 
 ## User Story
