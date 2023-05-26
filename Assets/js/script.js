@@ -7,6 +7,7 @@ myStorage = window.localStorage;
 
 
 //variables to show the current day and hour
+
 var hour = moment().format('h:mm:ss a');
 var currentDate = moment().format('dddd') + " " + moment().format("Do MMM YYYY");
 var userInput;
@@ -26,12 +27,14 @@ var hour15 = $("#3:00pm");
 var hour16 = $("#4:00pm");
 var hour17 = $("#5:00pm");
 var hour18 = $("#6:00pm");
+
 //hour Array
 
 var everyHour = [hour9, hour10, hour11, hour12, hour13, hour14, hour15, hour16, hour17, hour18];
 $('#currentDate').text(currentDate);
 
 //local storage to calender
+
 function scheduleEvents() {
     var event9 = JSON.parse(localStorage.getItem("9:00 AM"));
     hour9.val(event9);
@@ -57,6 +60,7 @@ function scheduleEvents() {
 
 
 // background based on P/PR/F
+
 function backgroundColor () {
     $(".form-control").each(function () {
         var timeTest = parseInt($(this).attr("id"));
@@ -79,6 +83,7 @@ $(document).ready(function(){
     
     
     // save btn
+   
     $(".saveBtn").on("click", function(){
     userInput = $(this).siblings(".form-control").val().trim();
     console.log(userInput);
