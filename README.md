@@ -41,10 +41,4 @@ My Email: M.hamza.rahman@gmail.com
 pls contact me for any info!
 
 
-
-
-
-##LICENSE
-
-Standard MIT License
-
+![mit lc](https://github.com/HamzaR19/WorkdayScheduler/assets/132932060/314d8548-8bcf-4711-882d-cdbcd372b7bc)
